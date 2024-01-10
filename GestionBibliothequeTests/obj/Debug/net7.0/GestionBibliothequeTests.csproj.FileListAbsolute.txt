@@ -1,0 +1,212 @@
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.deps.json
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.runtimeconfig.json
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.AdapterUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.deps.json
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.runtimeconfig.json
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.pdb
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/testhost.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.pdb
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.csproj.AssemblyReference.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.AssemblyInfoInputs.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.AssemblyInfo.cs
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.csproj.CoreCompileInputs.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.csproj.CopyComplete
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/refint/GestionBibliothequeTests.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.pdb
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.genruntimeconfig.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliothequeTests/obj/Debug/net7.0/ref/GestionBibliothequeTests.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/CoverletSourceRootsMapping
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.deps.json
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.runtimeconfig.json
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.AdapterUtilities.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.deps.json
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.runtimeconfig.json
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliothequeTests.pdb
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.CodeCoverage.Shim.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.CoreUtilities.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.PlatformAbstractions.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.ObjectModel.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.CommunicationUtilities.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.CrossPlatEngine.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.TestPlatform.Utilities.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.Common.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/testhost.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/NuGet.Frameworks.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CoreUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.ObjectModel.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/cs/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/de/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/es/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/fr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/it/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ja/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ko/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pl/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/pt-BR/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/ru/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/tr/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hans/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CommunicationUtilities.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.TestPlatform.CrossPlatEngine.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/zh-Hant/Microsoft.VisualStudio.TestPlatform.Common.resources.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/GestionBibliotheque.pdb
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/bin/Debug/net7.0/Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.csproj.AssemblyReference.cache
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.AssemblyInfoInputs.cache
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.AssemblyInfo.cs
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.csproj.CoreCompileInputs.cache
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.csproj.CopyComplete
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/refint/GestionBibliothequeTests.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.pdb
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/GestionBibliothequeTests.genruntimeconfig.cache
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliothequeTests/obj/Debug/net7.0/ref/GestionBibliothequeTests.dll

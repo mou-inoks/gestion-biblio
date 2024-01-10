@@ -1,0 +1,36 @@
+﻿<Properties StartupConfiguration="{0CAD8E88-3AF6-43AD-BBFA-46847D60734E}|Default">
+  <MonoDevelop.Ide.ItemProperties.GestionBibliothequeTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.GestionBibliotheque PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="GestionBibliothequeTests/BibliothequesTests.cs">
+    <Files>
+      <File FileName="GestionBibliotheque/Program.cs" Line="57" Column="62" />
+      <File FileName="GestionBibliothequeTests/BibliothequesTests.cs" Line="74" Column="22" />
+      <File FileName="GestionBibliothequeTests/UnitTest1.cs" Line="26" Column="12" />
+      <File FileName="GestionBibliothequeTests/Usings.cs" Line="1" Column="1" />
+      <File FileName="GestionBibliotheque/model/Bibliotheque.cs" Line="64" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GestionBibliotheque" expanded="True">
+            <Node name="GestionBibliotheque">
+              <Node name="model" expanded="True" />
+            </Node>
+            <Node name="GestionBibliothequeTests">
+              <Node name="BibliothequesTests.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>

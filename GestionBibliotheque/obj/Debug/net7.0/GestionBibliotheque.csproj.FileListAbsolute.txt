@@ -1,0 +1,29 @@
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.deps.json
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.runtimeconfig.json
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.pdb
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.csproj.AssemblyReference.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.AssemblyInfoInputs.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.AssemblyInfo.cs
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.csproj.CoreCompileInputs.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/refint/GestionBibliotheque.dll
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.pdb
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.genruntimeconfig.cache
+/Users/ribbi/Projects/GestionBibliotheque/GestionBibliotheque/obj/Debug/net7.0/ref/GestionBibliotheque.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.deps.json
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.runtimeconfig.json
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/bin/Debug/net7.0/GestionBibliotheque.pdb
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.AssemblyInfoInputs.cache
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.AssemblyInfo.cs
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.csproj.CoreCompileInputs.cache
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/refint/GestionBibliotheque.dll
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.pdb
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/GestionBibliotheque.genruntimeconfig.cache
+/Users/salimmouttaki/Desktop/Work/M450/27.11.2023/GestionBibliotheque 2/GestionBibliotheque/obj/Debug/net7.0/ref/GestionBibliotheque.dll
